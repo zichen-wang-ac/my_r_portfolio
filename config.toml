@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://zichen-rportfolio.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Zichen's R Portfolio"
 theme = "hugo-theme-dimension"
